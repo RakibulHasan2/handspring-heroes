@@ -13,19 +13,33 @@ const Profile = (props) => {
     const addBreak15 = () => {
     const time = document.getElementById('15s').innerText
      document.getElementById('updateTime').innerText = time;
+
+     localStorage.setItem('time', time);
+     const setTime = localStorage.getItem('time')
+     document.getElementById('updateTime').innerText = setTime
     }
     const addBreak30 = () => {
         const time = document.getElementById('30s').innerText
          document.getElementById('updateTime').innerText = time;
-        }
+
+         localStorage.setItem('time', time);
+         const setTime = localStorage.getItem('time')
+         document.getElementById('updateTime').innerText = setTime
+    }
     const addBreak45 = () => {
             const time = document.getElementById('45s').innerText
             document.getElementById('updateTime').innerText = time;
-            }
+            localStorage.setItem('time', time)
+            const setTime = localStorage.getItem('time')
+           document.getElementById('updateTime').innerText = setTime
+    }
     const addBreak60 = () => {
             const time = document.getElementById('60s').innerText
             document.getElementById('updateTime').innerText = time;
-            }
+            localStorage.setItem('time', time)
+            const setTime = localStorage.getItem('time')
+            document.getElementById('updateTime').innerText = setTime
+    }
             //toast
             const completed = () => toast("WOAH.. You Have Finished", {
                 position: "top-center",

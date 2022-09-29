@@ -12,7 +12,7 @@ const Exercise = (props) => {
                 <p className='exercise-name'>{exercise.name}</p>
                 <p>{exercise.details}</p>
                 <p>For Age : {exercise.age}</p>
-                <p>Time Required : {exercise.time}s</p>
+                <p>Time Required : {exercise.time} min</p>
             </div>
             <button onClick={() => handleAddToProfile(exercise)} className='btn-cart'>
                 <p>Add To list</p>
