@@ -1,4 +1,6 @@
 import React from 'react';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import './Profile.css'
 import profile from '../../Images/profile.jpg'
 const Profile = (props) => {
@@ -24,7 +26,16 @@ const Profile = (props) => {
             const time = document.getElementById('60s').innerText
             document.getElementById('updateTime').innerText = time;
             }
-
+            //toast
+            const completed = () => toast("WOAH.. You Have Finished", {
+                position: "top-center",
+                autoClose: 5000,
+                hideProgressBar: false,
+                closeOnClick: true,
+                pauseOnHover: true,
+                draggable: true,
+                progress: undefined,
+                });
     return (
         <div className='profile'>
             <div className='profile-info'>
@@ -64,7 +75,8 @@ const Profile = (props) => {
                     <h4>Break Time</h4>
                     <p id='updateTime'>00s</p>
             </div>
-            <button className='activity-completed-btn'>See activity</button>
+            <button className='activity-completed-btn' onClick={completed}>See activity</button>
+            <ToastContainer></ToastContainer>
         </div>
     );
 };
