@@ -6,34 +6,34 @@
     "name": "Dumble",
     "age": "20-25",
     "time": 30,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    "img": "https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "id": 2,
     "category": "Beginner",
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
-    "name": "Dumble",
+    "name": "Pushups",
     "age": "20-25",
     "time": 30,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+    "img": "https://images.pexels.com/photos/2294362/pexels-photo-2294362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "id": 3,
     "category": "Beginner",
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
-    "name": "Dumble",
+    "name": "Barbell Squat",
     "age": "20-25",
     "time": 30,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/69cbc73d0cb846889f89acbb011e68cb_9366/Supernova_Shoes_Black_S42722_01_standard.jpg"
+    "img": "https://images.pexels.com/photos/3253501/pexels-photo-3253501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "id": 4,
     "category": "Beginner",
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
-    "name": "Dumble",
+    "name": "Barbell Squat",
     "age": "20-25",
     "time": 30,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/96a5f085fedf4e678095abad01056711_9366/Lite_Racer_Adapt_3.0_Shoes_Black_FX8802_01_standard.jpg"
+    "img": "https://images.pexels.com/photos/2204196/pexels-photo-2204196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 
   },
   {
@@ -43,15 +43,15 @@
     "name": "Dumble",
     "age": "20-25",
     "time": 30,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c5d1994dfd343e28567ad4400dd351d_9366/4DFWD_Shoes_Black_Q46447_01_standard.jpg"
+    "img": "https://images.pexels.com/photos/5327487/pexels-photo-5327487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   }, 
   {
       "id": 6,
       "category": "Beginner",
       "details" : "Bodyweight strength training can increase strength and muscle mass.",
-      "name": "Dumble",
+      "name": "Dumbbell rows",
       "age": "20-25",
       "time": 30,
-      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c5d1994dfd343e28567ad4400dd351d_9366/4DFWD_Shoes_Black_Q46447_01_standard.jpg"
+      "img": "https://images.pexels.com/photos/3837293/pexels-photo-3837293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   }
 ]

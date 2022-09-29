@@ -8,3 +8,10 @@
     gap: 20px;
     padding: 30px;
 }
+.details-container{
+    background: rgba(72, 109, 223, 0.3);;
+    padding: 20px;
+    margin-top: 30px;
+    height: 550px;
+    margin-right: 20px;
+}

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Exercise from '../Exercise/Exercise';
+import Profile from '../Profile/Profile';
 import './Activity.css'
 
 const Activity = () => {
@@ -26,7 +27,7 @@ const Activity = () => {
                 </div>
             </div>
             <div className='details-container'>
-               <h1>hello</h1>
+               <Profile></Profile>
             </div>
         </div>
     );
