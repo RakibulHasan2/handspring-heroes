@@ -14,7 +14,7 @@
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
     "name": "Pushups",
     "age": "20-25",
-    "time": 30,
+    "time": 40,
     "img": "https://images.pexels.com/photos/2294362/pexels-photo-2294362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
@@ -23,7 +23,7 @@
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
     "name": "Barbell Squat",
     "age": "20-25",
-    "time": 30,
+    "time": 15,
     "img": "https://images.pexels.com/photos/3253501/pexels-photo-3253501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
@@ -32,7 +32,7 @@
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
     "name": "Barbell Squat",
     "age": "20-25",
-    "time": 30,
+    "time": 25,
     "img": "https://images.pexels.com/photos/2204196/pexels-photo-2204196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 
   },
@@ -42,7 +42,7 @@
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
     "name": "Dumble",
     "age": "20-25",
-    "time": 30,
+    "time": 35,
     "img": "https://images.pexels.com/photos/5327487/pexels-photo-5327487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   }, 
   {
