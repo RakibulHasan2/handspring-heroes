@@ -1,0 +1,28 @@
+.profile-info img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.profile-info{
+    display: flex;
+    column-gap: 10px;
+}
+.profile-info{
+    line-height: 0.3;
+}
+.profile-name{
+    font-size: 17px;
+    font-weight: 700;
+}
+.body-cart{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: azure;
+    line-height: 0.5;
+    border-radius: 10px;
+}
+.small-text{
+    font-size: 15px;
+    color: rgb(112, 115, 118);
+}
