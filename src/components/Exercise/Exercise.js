@@ -1,8 +1,10 @@
 import React from 'react';
 import './Exercise.css'
 const Exercise = (props) => {
-    const {exercise} = props;
-     console.log(exercise)
+    const {exercise, handleAddToProfile} = props;
+
+    //  console.log(exercise)
+   
     return (
         <div className='exercise'>
             <img src={exercise.img} alt="" />
@@ -12,7 +14,7 @@ const Exercise = (props) => {
                 <p>For Age : {exercise.age}</p>
                 <p>Time Required : {exercise.time}s</p>
             </div>
-            <button className='btn-cart'>
+            <button onClick={() => handleAddToProfile(exercise)} className='btn-cart'>
                 <p>Add To list</p>
             </button>
         </div>

@@ -13,6 +13,12 @@ const Activity = () => {
         .then(data => setExercises(data))
     } ,[])
 
+    const [addTime, setTime] = useState([])
+  
+     const handleAddToProfile = (exercise) =>{
+      const newTime = [...addTime, exercise]
+      setTime(newTime);
+     }
     return (
         <div className='activity-container'>
             <div>
@@ -22,12 +28,15 @@ const Activity = () => {
                 exercises.map( exercise => <Exercise 
                 key = {exercise.id}
                 exercise = {exercise}
+                handleAddToProfile = {handleAddToProfile}
                 ></Exercise>)
                 }
                 </div>
             </div>
             <div className='details-container'>
-               <Profile></Profile>
+               <Profile
+               addTime = {addTime}
+               ></Profile>
             </div>
         </div>
     );
