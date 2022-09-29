@@ -15,8 +15,8 @@ const QuestionAnswer = () => {
             <h4>Props are used to pass data from one component to another. The state is a local data storage that is local to the component only and cannot be passed to other components. The this. setState property is used to update the state values in the component. </h4>
         </div>
         <div className='QA'>
-            <h3>Question-03 : How dose react work?</h3>
-            <h4>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum earum perferendis necessitatibus quod repudiandae facere. Reprehenderit, est. Ullam, nam dolore? </h4>
+            <h3>Question-03 : What are the use of useEFfect execpt load data form API?</h3>
+            <h4>We can use the useEffect hook to trigger an animation on a shopping cart as a side effect of adding a new product to it. In this case, we'll need a state to handle the cart items, and another state to handle the animation trigger. </h4>
         </div>   
       </div>
 

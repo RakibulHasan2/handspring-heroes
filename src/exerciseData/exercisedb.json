@@ -1,36 +1,32 @@
 [
   {
     "id": 1,
-    "category": "Beginner",
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
-    "name": "Dumble",
+    "name": "Mountain Climber",
     "age": "20-25",
     "time": 30,
     "img": "https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "id": 2,
-    "category": "Beginner",
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
-    "name": "Pushups",
+    "name": "Leg Raise",
     "age": "20-25",
     "time": 40,
     "img": "https://images.pexels.com/photos/2294362/pexels-photo-2294362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "id": 3,
-    "category": "Beginner",
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
-    "name": "Barbell Squat",
+    "name": "Rope Swing",
     "age": "20-25",
     "time": 15,
     "img": "https://images.pexels.com/photos/3253501/pexels-photo-3253501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "id": 4,
-    "category": "Beginner",
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
-    "name": "Barbell Squat",
+    "name": "Incline Bench Press",
     "age": "20-25",
     "time": 25,
     "img": "https://images.pexels.com/photos/2204196/pexels-photo-2204196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -38,7 +34,6 @@
   },
   {
     "id": 5,
-    "category": "Beginner",
     "details" : "Bodyweight strength training can increase strength and muscle mass.",
     "name": "Dumble",
     "age": "20-25",
@@ -47,9 +42,8 @@
   }, 
   {
       "id": 6,
-      "category": "Beginner",
       "details" : "Bodyweight strength training can increase strength and muscle mass.",
-      "name": "Dumbbell rows",
+      "name": "Chest Press",
       "age": "20-25",
       "time": 30,
       "img": "https://images.pexels.com/photos/3837293/pexels-photo-3837293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
